@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Machine learning model artifacts & datasets
+*.pkl
+telecom_tower_model.pkl
+
+# MLflow tracking directory
+mlruns/
+.trash/
+
+# External tools / load test folders
+apache-jmeter-*/
