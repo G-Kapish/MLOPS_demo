@@ -265,5 +265,3 @@ jmeter.bat
 1. Make sure your Waitress or Flask server is active.
 2. Click the green **Start** button (play icon) on the top toolbar.
 3. Select **Summary Report** to review performance statistics under concurrent load.
-
-```
