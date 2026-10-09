@@ -17,3 +17,6 @@ mlruns/
 
 # External tools / load test folders
 apache-jmeter-*/
+# SQLite databases
+*.db
+mlflow.db
